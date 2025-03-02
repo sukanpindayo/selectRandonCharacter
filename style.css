@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+    font-family: "Noto Sans";
+}
+
+.container{
+    text-align:center;
+    margin:0 auto;
+}
+
+.output{
+    margin-top:30px;
+    font-size: 30px;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    color:#F00;
+}
